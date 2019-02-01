@@ -1,5 +1,6 @@
 package com.semester1.tugas;
 
+// author mohammad fajar
 public class TreeNode {
 
 	TreeNode leftNode;
